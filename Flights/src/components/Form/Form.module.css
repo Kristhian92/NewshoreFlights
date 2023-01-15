@@ -1,0 +1,30 @@
+.label {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.input {
+  border-radius: 0.3rem;
+}
+
+.button {
+  margin: 1rem;
+  padding: 0.2rem;
+  font-size: 1rem;
+  border-radius: 0.5rem;
+  width: 6rem;
+  background-color: azure;
+}
+
+.div {
+  transform: translateX(850px);
+  margin-top: -12rem;
+  background-color: rgba(193, 76, 33, 0.5);
+  width: 20rem;
+  padding: 0.5rem;
+}
+
+.error {
+    color:red;
+    font-weight: bold;
+}
